@@ -1,4 +1,4 @@
-('C:\\Users\\KOsma\\Desktop\\Codeswork\\build\\mac_randomizer\\PYZ-00.pyz',
+('c:\\Users\\KOsma\\Desktop\\Codeswork\\build\\mac_randomizer\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\KOsma\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
