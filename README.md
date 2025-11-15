@@ -3,7 +3,7 @@ This application generates randomized or vendor-spoofed MAC addresses. It can cr
 
 How to Use:
 
-1. Open MAC Address Randomizer.exe
+1. Open mac_address_randomizer_and_spoof.exe
 
 2. Under “Spoofing Options,” choose the type of MAC address you want:
 
