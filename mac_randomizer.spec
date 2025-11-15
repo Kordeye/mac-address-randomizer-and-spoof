@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['mac_randomizer.py'],
+    ['mac_address_randomizer_and_spoof.py'],
     pathex=[],
     binaries=[],
     datas=[('icon.ico', '.')],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='mac_randomizer',
+    name='mac_address_randomizer_and_spoof',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
